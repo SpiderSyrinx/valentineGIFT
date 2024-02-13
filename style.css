@@ -33,9 +33,7 @@ body{
     background-color: pink;
 }
 body{
-    height: auto;
-    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsanrio-kuromi-cute-pink-aesthetic-desktoppc-wallpaper--11399805453622330%2F&psig=AOvVaw2dj83r7uYww35rEs6nICFh&ust=1707913744638000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjjkdKoqIQDFQAAAAAdAAAAABAE');
-    background-size: cover;
+   background-color: pink;
 }
 .btn-ClickToWatch{
     width: 250px;
