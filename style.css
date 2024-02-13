@@ -34,7 +34,7 @@ body{
 }
 body{
     height: auto;
-    background-image: url('../PIC/3c7c5ea2c560cd053496897887132728.jpg');
+    background-image: url('/PIC/3c7c5ea2c560cd053496897887132728.jpg');
     background-size: cover;
 }
 .btn-ClickToWatch{
